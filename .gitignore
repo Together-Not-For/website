@@ -134,3 +134,4 @@ dmypy.json
 .devcontainer
 node_modules
 .next
+.vscode
